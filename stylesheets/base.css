@@ -1,0 +1,66 @@
+body {
+	margin:0;
+	padding:0;
+	height:100%; /**- should allow the wrapper grow to accomondate contents */
+	font-family: Tahoma, Verdana, Arial, sans-serif;
+	font-size:13px;
+	background-color:#c0c0c0;
+}
+
+
+#wrapper {
+	width:800px;
+	height:100%;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:80px;
+	margin-top:30px;
+	background-color:#fff;
+	border:1px solid #000;
+	
+}
+
+#header {
+ 	width:100%;
+ 	background-color:#000000;
+ 	color:#ff8000;
+ 	height:40px;
+ 	font-size:2em;
+ 	text-align:center;
+ 	margin:0;
+}
+
+#content {
+	margin: 10px;
+	height: 800px;
+}
+
+.vlink:hover {
+ 	text-decoration: underline;
+ 	cursor:pointer;
+ 	color:#ff0000
+	} 
+
+.fieldWithErrors input[type="text"] {
+	border:1px solid #ff0000;
+}
+table {
+	font-family:tahoma, verdana, arial;
+	font-size:12px;
+	}
+
+table.tab-decorated  {
+	border-collapse:collapse;
+}
+
+table.tab-decorated th {
+
+	background-color:#c0c0c0;
+	font-variant:bold;
+	padding:2px;
+	}
+
+table.tab-decorated input[type="text"]{
+	width:60px;
+	}
+	

@@ -8,8 +8,9 @@
 ## WHEELS
 #################
 
-/Wheels/*
-
+/wheels/*
+/files/*
+/jquery-ui-*
 #################
 ## Eclipse
 #################

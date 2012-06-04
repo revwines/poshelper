@@ -1,0 +1,25 @@
+
+
+#NavTabs {
+	padding:0px;
+	background:none;
+	border-width:0px;
+	font-size:.9em;
+}
+
+#NavTabs .ui-tabs-nav {
+	padding-left: 0px;
+	background:transparent;
+	border-width: 0px 0px 1px 0px;
+	border-radius:0px;
+}
+
+#NavTabs 	.ui-tabs-panel {
+	border-width:0px 1px 1px 1px;
+}
+
+#simple-nav {
+	margin-left:0;
+	width:120px;
+
+}
